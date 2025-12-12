@@ -1,4 +1,5 @@
 // app\api\payments\create-order\route.js
+export const dynamic = "force-dynamic";
 import { NextResponse } from "next/server";
 import Razorpay from "razorpay";
 import { PrismaClient } from "@prisma/client";
