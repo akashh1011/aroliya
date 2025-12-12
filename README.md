@@ -1,4 +1,4 @@
 START COMMAND
 npm install
 
-deployment 
+deployment done on azure
