@@ -1,0 +1,2 @@
+START COMMAND
+npm install
