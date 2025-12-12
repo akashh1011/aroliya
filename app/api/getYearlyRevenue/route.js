@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import Razorpay from "razorpay";
 
 const razorpay = new Razorpay({
